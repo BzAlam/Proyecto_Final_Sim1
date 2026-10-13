@@ -1,0 +1,24 @@
+{
+  "name": "proyecto_final_sim1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BzAlam/Proyecto_Final_Sim1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/BzAlam/Proyecto_Final_Sim1/issues"
+  },
+  "homepage": "https://github.com/BzAlam/Proyecto_Final_Sim1#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
